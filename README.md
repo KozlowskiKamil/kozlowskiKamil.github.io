@@ -1,9 +1,8 @@
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Kamil</h1>
 <h3 align="center">A passionate java and frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kozlowskikamil&label=Profile%20views&color=0e75b6&style=flat" alt="kozlowskikamil" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kozlowskikamil" alt="kozlowskikamil" /></a> </p>
 
 - 🔭 I’m currently working on Web library application in Java + SPRING + HTML + CSS [Web library](git@github.com:infoshareacademy/JJDZR11-Konstruktorsi.git)
 
@@ -29,3 +28,11 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kozlowskikamil&" alt="kozlowskikamil" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kozlowskikamil" alt="kozlowskikamil" /></a> </p>
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kozlowskikamil&label=Profile%20views&color=0e75b6&style=flat" alt="kozlowskikamil" /> </p>
