@@ -176,11 +176,11 @@ body {
   margin: 10px;
   width: 105px;
   height: 142px;
-  background-color: #3095d3;
+  background-color: #0e76a8;
 }
 
 .tw:hover {
-  background-color: #2084c2;
+  background-color: #0d65a7;
   cursor: pointer;
 }
 
