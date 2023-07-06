@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Web library application in Java + SPRING + HTML + CSS [Web library](git@github.com:infoshareacademy/JJDZR11-Konstruktorsi.git)
 
-- 🌱 I’m currently learning Java **Spring, JUNIT, ANGULAR**
+- 🌱 I’m currently learning Java **(JUNIT, MOCKITO), next will be ANGULAR**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KozlowskiKamil](https://github.com/KozlowskiKamil)
 
