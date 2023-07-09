@@ -1,0 +1,261 @@
+/* Global settings */
+body {
+    background-color: #F8FFF8;
+    font-family: Roboto, Tahoma, Helvetica, Verdana, Arial, sans-serif;
+    color: #0d0d0d;
+}
+
+div {
+    display: block;
+}
+
+a {
+    color: #0d0d0d;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #435D99;
+    text-shadow: 3px 3px 5px #F8FFF8;
+}
+
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+/* Fonts & text */
+.font-style {
+    font-family: Varela Round, Tahoma, Helvetica, Verdana, Arial, sans-serif;
+}
+
+.font-white {
+    color: #F8FFF8;
+}
+
+.text-align-justify {
+    text-align: justify;
+}
+
+/* Backgrounds */
+.background-style {
+    background-color: #F8FFF8;
+}
+
+.background-style-menu {
+    background: #98DAC6;
+}
+
+.background-style-sections {
+    background: #98DAC6;
+}
+
+.background-style-headers {
+    background: #435D99;
+}
+
+/* Buttons */
+.button-style {
+    background-color: #435D99;
+    color: #F8FFF8;
+    transition-duration: 0.4s;
+}
+
+.button-style:hover {
+    background-color: #CFF4D2;
+    color: #0d0d0d;
+    border-color: #435D99;
+}
+
+/* Navigation bar */
+.menu-nav {
+    padding: 10px;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, .7);
+}
+
+.menu-nav a {
+    color: #0d0d0d;
+    font-size: 18px;
+}
+
+.menu-nav a:hover {
+    background-color: #CFF4D2;
+    color: #0d0d0d;
+    text-shadow: none;
+    border-radius: 10px;
+}
+
+.logo {
+    margin-right: 20px;
+}
+
+/* Title section */
+.section-title {
+    padding: 20px 5px;
+    padding-bottom: 10px;
+    background-image: linear-gradient(to right bottom, #cff4d2, #baeacd, #a6e0c8, #91d6c5, #7dccc3, #6cc3c2, #5bb9c0, #4bafbf, #3ba3bd, #2f98ba, #2a8bb6, #2c7fb0);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#text-title {
+    font-weight: bold;
+    font-size: 50px;
+    color: #435D99;
+}
+
+#write-text {
+    font-weight: bold;
+    font-size: 25px;
+    color: #F9F871;
+}
+
+.avatar {
+    width: 220px;
+}
+
+/* About me section */
+.section-about {
+    text-align: center;
+    min-height: 200px;
+    padding: 0 16px;
+    box-shadow: 0px 1px 5px rgba(67, 93, 153, .8);
+}
+
+.section2 {
+    min-height: 100px;
+}
+
+.container-about {
+    text-align: center;
+    padding: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    line-height: 2;
+    font-size: 18px;
+}
+
+/* Portfolio section */
+.info {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.container-portfolio {
+    position: relative;
+    text-align: center;
+    background: #F8FFF8;
+    padding: 40px;
+    margin-top: -100px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 5px rgba(67, 93, 153, .7);
+}
+
+.container-portfolio:hover {
+    box-shadow: 0px 8px 15px rgba(67, 93, 153, .8);
+}
+
+.image-portfolio {
+    width: 100%;
+    max-height: 250px;
+}
+
+.responsive {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Competence section */
+.container-skills {
+    position: relative;
+    text-align: center;
+    background: #F8FFF8;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0px 1px 5px 0px rgba(67, 93, 153, .7);
+}
+
+.container-skills:hover {
+    box-shadow: 0px 8px 15px 0px rgba(67, 93, 153, .8);
+}
+
+/* Contact form section */
+.section-form {
+    padding: 20px 0;
+    background: #98DAC6;
+}
+
+/* Footer */
+.footer {
+    position: relative;
+    padding: 10px;
+    width: 100%;
+    height: auto;
+    color: #0d0d0d;
+    text-align: center;
+    font-weight: bold;
+    display: block;
+    box-shadow: 0px 1px 5px rgba(67, 93, 153, .8);
+}
+
+.social {
+    font-size: 30px;
+}
+
+.social a {
+    color: #435D99;
+}
+
+.social a:hover {
+    color: #F8FFF8;
+    text-shadow: 3px 3px 5px #435D99;
+}
+
+.copyright {
+    text-align: center;
+}
+
+/* Media css */
+@media only screen and (max-width: 768px) {
+    .avatar {
+        width: 110px;
+    }
+
+    #text-title {
+        font-size: 28px;
+    }
+
+    #write-text {
+        font-size: 17px;
+    }
+
+    .section-title {
+        padding: 15px 2px;
+        padding-bottom: 5px;
+    }
+
+    .container-about {
+        padding: 10px;
+        padding-left: 0px;
+        padding-right: 0px;
+        font-size: 16px;
+    }
+
+    .social {
+        font-size: 25px;
+    }
+
+    .copyright {
+        font-size: 15px;
+    }
+
+    .footer {
+        padding: 10px;
+    }
+
+    .woman {
+        width: 5%;
+        height: 5%;
+    }
+
+}
