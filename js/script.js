@@ -1,5 +1,5 @@
 let i = 0;
-const txt = ' engage in both design and coding, and it brings me immense joy.';
+const txt = 'oftware development and solution design bring me immense joy.';
 const speed = 50;
 
 function typeWriter() {
